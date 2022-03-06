@@ -18,8 +18,8 @@ func (f FileName) PrintAscii() {
 }
 
 // Create the AsciiPrinter interface with the PrintAscii() method below:
-type AsciiPrinter interface {
-	PrintAscii()
+type ? interface {
+	?
 }
 
 func main() {
